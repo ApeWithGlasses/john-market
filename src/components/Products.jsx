@@ -6,7 +6,7 @@ const Products = () => {
   const [data, setData] = useState([]);
 
   useEffect(() => {
-    fetch('./src/database/productsDB.json')
+    fetch('https://raw.githubusercontent.com/ApeWithGlasses/john-market/main/src/database/productsDB.json')
       .then(response => response.json())
       .then(jsonData => setData(jsonData))
       .catch(error => console.error(error));
