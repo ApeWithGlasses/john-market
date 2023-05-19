@@ -1,0 +1,390 @@
+[
+    {
+      "name": "Apple",
+      "price": 1.20,
+      "code": "97215",
+      "lote": "05/23",
+      "expirationDate": "08/23",
+      "category": "fruit",
+      "img": "https://static.vecteezy.com/system/resources/previews/008/848/360/original/fresh-apple-fruit-free-png.png"
+    },
+    {
+      "name": "Banana",
+      "price": 0.80,
+      "code": "64378",
+      "lote": "05/23",
+      "expirationDate": "08/23",
+      "category": "fruit",
+      "img": "https://i.pinimg.com/originals/d3/d0/fa/d3d0faa69ab69baf5e0ebed2c3a31f5f.png"
+    },
+    {
+      "name": "Orange",
+      "price": 0.60,
+      "code": "83456",
+      "lote": "05/23",
+      "expirationDate": "08/23",
+      "category": "fruit",
+      "img": "https://cdn.pixabay.com/photo/2016/02/23/17/42/orange-1218158_1280.png"
+    },
+    {
+      "name": "Strawberries",
+      "price": 2.50,
+      "code": "47563",
+      "lote": "05/23",
+      "expirationDate": "08/23",
+      "category": "fruit",
+      "img": "https://i.pinimg.com/originals/28/3e/53/283e53880ea4fd483c4968d89b143866.png"
+    },
+    {
+      "name": "Blueberries",
+      "price": 3.00,
+      "code": "92541",
+      "lote": "05/23",
+      "expirationDate": "08/23",
+      "category": "fruit",
+      "img": "https://i.pinimg.com/originals/83/e7/cb/83e7cb22c15636563f5e0a3d53eeb3db.png"
+    },
+    {
+      "name": "Watermelon",
+      "price": 4.50,
+      "code": "74521",
+      "lote": "05/23",
+      "expirationDate": "08/23",
+      "category": "fruit",
+      "img": "https://www.freepnglogos.com/uploads/watermelon-png/watermelon-primal-shisha-gels-primal-brands-13.png"
+    },
+    {
+      "name": "Grapes",
+      "price": 2.80,
+      "code": "35698",
+      "lote": "05/23",
+      "expirationDate": "08/23",
+      "category": "fruit",
+      "img": "https://www.freepnglogos.com/uploads/grapes-png/grapes-dimidwa-12.png"
+    },
+    {
+      "name": "Pineapple",
+      "price": 3.50,
+      "code": "69523",
+      "lote": "05/23",
+      "expirationDate": "08/23",
+      "category": "fruit",
+      "img": "https://static.vecteezy.com/system/resources/previews/008/848/362/non_2x/fresh-pineapple-free-png.png"
+    },
+    {
+      "name": "Mango",
+      "price": 2.20,
+      "code": "26548",
+      "lote": "05/23",
+      "expirationDate": "08/23",
+      "category": "fruit",
+      "img": "https://assets.stickpng.com/images/580b57fcd9996e24bc43c15d.png"
+    },
+    {
+      "name": "Avocado",
+      "price": 1.80,
+      "code": "78456",
+      "lote": "05/23",
+      "expirationDate": "08/23",
+      "category": "fruit",
+      "img": "https://png.pngtree.com/png-clipart/20230114/ourmid/pngtree-photo-of-avocado-png-image_6561465.png"
+    },
+    {
+      "name": "Tomato",
+      "price": 0.90,
+      "code": "95236",
+      "lote": "05/23",
+      "expirationDate": "08/23",
+      "category": "vegetable",
+      "img": "https://freepngimg.com/thumb/tomato/6-tomato-png-image.png"
+    },
+    {
+      "name": "Carrot",
+      "price": 0.50,
+      "code": "63251",
+      "lote": "05/23",
+      "expirationDate": "08/23",
+      "category": "vegetable",
+      "img": "https://parspng.com/wp-content/uploads/2023/02/Carrotpng.parspng.com-4.png"
+    },
+    {
+      "name": "Lettuce",
+      "price": 1.20,
+      "code": "36524",
+      "lote": "05/23",
+      "expirationDate": "08/23",
+      "category": "vegetable",
+      "img": "https://i.pinimg.com/originals/60/16/91/6016911336b4930bb9eda15b99ffad36.png"
+    },
+    {
+      "name": "Cucumber",
+      "price": 0.80,
+      "code": "85246",
+      "lote": "05/23",
+      "expirationDate": "08/23",
+      "category": "vegetable",
+      "img": "https://static.wikia.nocookie.net/house-party/images/5/59/Cucumber.png/revision/latest?cb=20221020170909"
+    },
+    {
+      "name": "Bell Pepper",
+      "price": 1.50,
+      "code": "74589",
+      "lote": "05/23",
+      "expirationDate": "08/23",
+      "category": "vegetable",
+      "img": "https://static.vecteezy.com/system/resources/previews/018/743/197/original/bell-pepper-isolated-png.png"
+    },
+    {
+      "name": "Broccoli",
+      "price": 2.00,
+      "code": "36987",
+      "lote": "05/23",
+      "expirationDate": "08/23",
+      "category": "vegetable",
+      "img": "https://www.onlygfx.com/wp-content/uploads/2022/01/broccoli.png"
+    },
+    {
+      "name": "Spinach",
+      "price": 1.80,
+      "code": "25486",
+      "lote": "05/23",
+      "expirationDate": "08/23",
+      "category": "vegetable",
+      "img": "https://pngimg.com/d/spinach_PNG33.png"
+    },
+    {
+      "name": "Potato",
+      "price": 0.70,
+      "code": "78546",
+      "lote": "05/23",
+      "expirationDate": "08/23",
+      "category": "vegetable",
+      "img": "https://pngimg.com/d/potato_PNG2056.png"
+    },
+    {
+      "name": "Onion",
+      "price": 0.60,
+      "code": "36251",
+      "lote": "05/23",
+      "expirationDate": "08/23",
+      "category": "vegetable",
+      "img": "https://www.pngmart.com/files/16/Onion-Transparent-PNG.png"
+    },
+    {
+      "name": "Pasta",
+      "price": 1.50,
+      "code": "96325",
+      "lote": "05/23",
+      "expirationDate": "08/23",
+      "category": "pantry",
+      "img": "https://pngimg.com/d/spaghetti_PNG85.png"
+    },
+    {
+      "name": "Rice",
+      "price": 2.80,
+      "code": "42569",
+      "lote": "05/23",
+      "expirationDate": "08/23",
+      "category": "pantry",
+      "img": "https://static.vecteezy.com/system/resources/previews/009/887/170/original/white-rice-in-bow-free-png.png"
+    },
+    {
+      "name": "Canned Soup",
+      "price": 1.20,
+      "code": "85236",
+      "lote": "05/23",
+      "expirationDate": "08/23",
+      "category": "pantry",
+      "img": "https://imgur.com/a/Y70Ijiv"
+    },
+    {
+      "name": "Cereal",
+      "price": 3.50,
+      "code": "36547",
+      "lote": "05/23",
+      "expirationDate": "08/23",
+      "category": "pantry",
+      "img": "https://www.pngplay.com/wp-content/uploads/9/Cereal-Transparent-PNG.png"
+    },
+    {
+      "name": "Canned Beans",
+      "price": 0.90,
+      "code": "78563",
+      "lote": "05/23",
+      "expirationDate": "08/23",
+      "category": "pantry",
+      "img": "https://atlas-content-cdn.pixelsquid.com/stock-images/canned-bean-baked-beans-5E9nJz1-600.jpg"
+    },
+    {
+      "name": "Peanut Butter",
+      "price": 2.50,
+      "code": "25487",
+      "lote": "05/23",
+      "expirationDate": "08/23",
+      "category": "pantry",
+      "img": "https://www.freepnglogos.com/uploads/peanut-png/peanut-butter-performance-energy-bar-energy-powerbar-10.png"
+    },
+    {
+      "name": "Jam",
+      "price": 2.20,
+      "code": "78459",
+      "lote": "05/23",
+      "expirationDate": "08/23",
+      "category": "pantry",
+      "img": "https://www.pngmart.com/files/10/Jam-Jar-PNG-File.png"
+    },
+    {
+      "name": "Cooking Oil",
+      "price": 3.20,
+      "code": "36987",
+      "lote": "05/23",
+      "expirationDate": "08/23",
+      "category": "pantry",
+      "img": "https://static.vecteezy.com/system/resources/previews/003/673/547/large_2x/vegetable-oil-with-olive-oil-in-different-bottle-for-cooking-isolated-on-white-background-with-clipping-path-free-photo.jpg"
+    },
+    {
+      "name": "Sugar",
+      "price": 1.80,
+      "code": "96354",
+      "lote": "05/23",
+      "expirationDate": "08/23",
+      "category": "pantry",
+      "img": "https://www.freepnglogos.com/uploads/sugar-png/sugar-png-transparent-images-pictures-photos-png-arts-26.png"
+    },
+    {
+      "name": "Coffee",
+      "price": 4.50,
+      "code": "85632",
+      "lote": "05/23",
+      "expirationDate": "08/23",
+      "category": "pantry",
+      "img": "https://freepngimg.com/save/33912-coffee-beans-file/761x326"
+    },
+    {
+      "name": "Milk",
+      "price": 1.80,
+      "code": "78456",
+      "lote": "05/23",
+      "expirationDate": "08/23",
+      "category": "dairy",
+      "img": "https://static.vecteezy.com/system/resources/previews/017/340/365/original/transparent-glass-of-fresh-milk-png.png"
+    },
+    {
+      "name": "Eggs",
+      "price": 2.50,
+      "code": "69874",
+      "lote": "05/23",
+      "expirationDate": "08/23",
+      "category": "dairy",
+      "img": "https://static.vecteezy.com/system/resources/previews/009/339/329/original/chicken-egg-raw-free-png.png"
+    },
+    {
+      "name": "Butter",
+      "price": 2.20,
+      "code": "36542",
+      "lote": "05/23",
+      "expirationDate": "08/23",
+      "category": "dairy",
+      "img": "https://purepng.com/public/uploads/large/purepng.com-butterfood-dairy-milk-butter-buttermilk-cream-butterfat-941524621398zsmge.png"
+    },
+    {
+      "name": "Cheese",
+      "price": 3.50,
+      "code": "85236",
+      "lote": "05/23",
+      "expirationDate": "08/23",
+      "category": "dairy",
+      "img": "https://i.pinimg.com/originals/b3/77/8e/b3778ed590bc573ecd266d6b7d92d658.png"
+    },
+    {
+      "name": "Yogurt",
+      "price": 1.50,
+      "code": "74586",
+      "lote": "05/23",
+      "expirationDate": "08/23",
+      "category": "dairy",
+      "img": "https://www.pngall.com/wp-content/uploads/2/Yogurt-PNG-Image-HD.png"
+    },
+    {
+      "name": "Chicken Breast",
+      "price": 5.80,
+      "code": "36259",
+      "lote": "05/23",
+      "expirationDate": "08/23",
+      "category": "meat",
+      "img": "https://static.vecteezy.com/system/resources/previews/012/011/574/original/fresh-chicken-breast-cut-out-transparent-background-png.png"
+    },
+    {
+      "name": "Beef Steak",
+      "price": 7.50,
+      "code": "69874",
+      "lote": "05/23",
+      "expirationDate": "08/23",
+      "category": "meat",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkvoLvKzR7UnV4FEVqhRY4Z09-oknNpMGbVg&usqp=CAU"
+    },
+    {
+      "name": "Pork Chops",
+      "price": 6.20,
+      "code": "36587",
+      "lote": "05/23",
+      "expirationDate": "08/23",
+      "category": "meat",
+      "img": "https://www.nicepng.com/png/detail/342-3421787_bone-in-pork-chops-pork-pork-chops-png.png"
+    },
+    {
+      "name": "Salmon Fillet",
+      "price": 9.50,
+      "code": "74563",
+      "lote": "05/23",
+      "expirationDate": "08/23",
+      "category": "meat",
+      "img": "https://static.vecteezy.com/system/resources/previews/011/190/587/original/slice-of-salmon-fillet-png.png"
+    },
+    {
+      "name": "Shrimp",
+      "price": 8.80,
+      "code": "36542",
+      "lote": "05/23",
+      "expirationDate": "08/23",
+      "category": "meat",
+      "img": "https://pngimg.com/d/shrimps_PNG18277.png"
+    },
+    {
+      "name": "Bread",
+      "price": 2.00,
+      "code": "74536",
+      "lote": "05/23",
+      "expirationDate": "08/23",
+      "category": "bakery",
+      "img": "https://i.pinimg.com/originals/6f/5f/53/6f5f5332cd54ba419022a4882935dbd5.png"
+    },
+    {
+      "name": "Baguette",
+      "price": 1.50,
+      "code": "36524",
+      "lote": "05/23",
+      "expirationDate": "08/23",
+      "category": "bakery",
+      "img": "https://static.vecteezy.com/system/resources/previews/009/693/058/original/baguette-bread-cutout-file-png.png"
+    },
+    {
+      "name": "Croissant",
+      "price": 1.80,
+      "code": "96325",
+      "lote": "05/23",
+      "expirationDate": "08/23",
+      "category": "bakery",
+      "img": "https://static.vecteezy.com/system/resources/previews/017/340/369/original/fresh-cooked-yellow-croissant-png.png"
+    },
+    {
+      "name": "Muffin",
+      "price": 1.20,
+      "code": "85476",
+      "lote": "05/23",
+      "expirationDate": "08/23",
+      "category": "bakery",
+      "img": "https://assets.stickpng.com/images/589605b3cba9841eabab60ef.png"
+    }
+  ]
+  
